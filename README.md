@@ -5,7 +5,7 @@ Classes to filter Kinect V2 *(Kinect for Windows)* skeletal data
 
 **Requirements:**
 
-- Kinect For Windows / Kinect V2 SDK (try https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
+- Kinect For Windows / Kinect V2 SDK (try [here](https://www.microsoft.com/en-gb/download/details.aspx?id=44561))
 - GLM libraries (either download and include manually or use Nuget in Visual Studio)
 
 **About the work**

@@ -3,6 +3,8 @@
 
 Classes to filter Kinect V2 *(Kinect for Windows)* skeletal data
 
+*Please note this code was produced under constraints, and is therefore only partially complete and may require further architecturing etc, for improvements*
+
 **Requirements:**
 
 - Kinect For Windows / Kinect V2 SDK (try [here](https://www.microsoft.com/en-gb/download/details.aspx?id=44561))

@@ -142,6 +142,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AveragedJoint.cpp" />
+    <ClCompile Include="DoubleExponentJoint.cpp" />
+    <ClCompile Include="FilteredJoint.cpp" />
+    <ClCompile Include="KinectV2BodyFrame.cpp" />
+    <ClCompile Include="KinectV2JointReader.cpp" />
+    <ClCompile Include="PassthroughJoint.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AveragedJoint.h" />
+    <ClInclude Include="DoubleExponentJoint.h" />
+    <ClInclude Include="essentials.h" />
+    <ClInclude Include="FilteredJoint.h" />
+    <ClInclude Include="GLMTypes.h" />
+    <ClInclude Include="JointWeights.h" />
+    <ClInclude Include="Kinectafx.h" />
+    <ClInclude Include="KinectV2BodyFrame.h" />
+    <ClInclude Include="KinectV2JointReader.h" />
+    <ClInclude Include="PassthroughJoint.h" />
+    <ClInclude Include="Skeleton.h" />
+    <ClInclude Include="SkeletonSmoothingParams.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
